@@ -1,0 +1,17 @@
+Matrix,Method,Cluster,Stocks,Stock_Percent,Median_Weekly_Return_Percent,Median_Beta,Median_R_Days,Median_F_Events,Median_M_USD_Billions
+Risk_Return,Ward,1,317,67.735,0.199,0.824,,,
+Risk_Return,Ward,2,56,11.966,0.267,1.554,,,
+Risk_Return,Ward,3,95,20.299,0.547,1.179,,,
+Risk_Return,KMeans,1,27,5.769,0.831,1.45,,,
+Risk_Return,KMeans,2,120,25.641,0.195,0.532,,,
+Risk_Return,KMeans,3,108,23.077,0.078,1.036,,,
+Risk_Return,KMeans,4,51,10.897,0.268,1.533,,,
+Risk_Return,KMeans,5,162,34.615,0.415,0.982,,,
+RFM,Ward,1,216,46.154,,,11.0,3.0,10.791
+RFM,Ward,2,124,26.496,,,11.0,3.0,35.824
+RFM,Ward,3,28,5.983,,,11.0,5.0,61.087
+RFM,Ward,4,100,21.368,,,46.5,2.0,19.886
+RFM,KMeans,1,191,40.812,,,11.0,2.0,13.131
+RFM,KMeans,2,85,18.162,,,54.0,2.0,21.242
+RFM,KMeans,3,79,16.88,,,11.0,3.0,68.033
+RFM,KMeans,4,113,24.145,,,11.0,4.0,12.866
